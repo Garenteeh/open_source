@@ -1,6 +1,6 @@
 GEM
   specs:
-    rake (13.1.0)
+    
 
 PLATFORMS
   x64-mingw-ucrt

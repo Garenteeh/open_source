@@ -7,7 +7,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  rake (>= 0.9.2)
+  rake (~> 13.1)
 
 BUNDLED WITH
    2.4.10

@@ -2,13 +2,14 @@
 
 Hello,
 
-Introdution au dévelopement open source
+Introdution au dévelopement open source, premier projet FOSS ! 
 
 ![](https://img.shields.io/github/stars/Garenteeh/open_source.svg)
 
+#Langage utiisé
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-Installer le git 
+Installer le projet via un git bash  
 
 ````shell
 git clone https://github.com/Garenteeh/open_source.git
@@ -16,6 +17,7 @@ git clone https://github.com/Garenteeh/open_source.git
 
 Contribuer au git
 
+- faire un fork 
 - ajouter une branch 
 - faire une pull request 
 

@@ -21,4 +21,5 @@ Contribuer au git
 - ajouter une branch 
 - faire une pull request 
 
+Faites moi des retours sur ce qui peut être amélioré !
 Baptiste Laurent / blaurent6@myges.fr

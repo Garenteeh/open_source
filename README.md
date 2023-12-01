@@ -9,6 +9,10 @@ Introdution au dévelopement open source, premier projet FOSS !
 # Langage utiisé
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
+installer ruby 3.2.2 pour utiliser le code 
+
+https://www.ruby-lang.org/fr/downloads/
+
 Installer le projet via un git bash  
 
 ````shell
